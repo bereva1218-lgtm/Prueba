@@ -1,4 +1,1 @@
 print("Hello, World!")
-print("Welcome to Python programming.")
-print("kevin")
-print("wenas")
