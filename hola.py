@@ -1,3 +1,4 @@
 print("Hello, World!")
-print("wena noches señor agente")
-print("wena noches señor agente kevin")
+print("Welcome to Python programming.")
+print("kevin")
+print("wenas")
