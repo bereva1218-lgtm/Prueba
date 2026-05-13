@@ -1,4 +1,6 @@
 print("Hello, World!")
 print("Welcome to Python programming.")
 print("kevin")
-
+print("This is a simple Python script.")
+print("Python is great for beginners and professionals alike.")
+print("Let's learn Python together!")
